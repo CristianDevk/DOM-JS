@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    height: 100vh;
+    /* display: grid; */
+    place-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mouse {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
